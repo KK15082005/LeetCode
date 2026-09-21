@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KK15082005/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/KK15082005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KK15082005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/KK15082005/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/KK15082005/LeetCode/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KK15082005/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KK15082005/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
