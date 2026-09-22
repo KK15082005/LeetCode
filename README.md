@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/KK15082005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KK15082005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/KK15082005/LeetCode/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/KK15082005/LeetCode/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,8 +60,13 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KK15082005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0994-rotting-oranges](https://github.com/KK15082005/LeetCode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KK15082005/LeetCode/tree/master/0054-spiral-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/KK15082005/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
