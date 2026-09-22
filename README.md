@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KK15082005/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KK15082005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/KK15082005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KK15082005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KK15082005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/KK15082005/LeetCode/tree/master/0994-rotting-oranges) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KK15082005/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
