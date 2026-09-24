@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/KK15082005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KK15082005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/KK15082005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/KK15082005/LeetCode/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/KK15082005/LeetCode/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -23,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KK15082005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/KK15082005/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/KK15082005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KK15082005/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/KK15082005/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/KK15082005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -46,6 +49,7 @@
 | [0011-container-with-most-water](https://github.com/KK15082005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/KK15082005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +66,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/KK15082005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/KK15082005/LeetCode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
