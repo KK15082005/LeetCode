@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/KK15082005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/KK15082005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/KK15082005/LeetCode/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KK15082005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/KK15082005/LeetCode/tree/master/0704-binary-search) |
@@ -19,6 +20,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KK15082005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/KK15082005/LeetCode/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
@@ -43,6 +45,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KK15082005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
