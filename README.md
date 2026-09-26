@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KK15082005/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KK15082005/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KK15082005/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/KK15082005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KK15082005/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KK15082005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/KK15082005/LeetCode/tree/master/0242-valid-anagram) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KK15082005/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KK15082005/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KK15082005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
