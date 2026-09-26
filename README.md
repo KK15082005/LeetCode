@@ -47,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KK15082005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/KK15082005/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KK15082005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KK15082005/LeetCode/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KK15082005/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
