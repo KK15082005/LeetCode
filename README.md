@@ -54,6 +54,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KK15082005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KK15082005/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/KK15082005/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/KK15082005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/KK15082005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KK15082005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KK15082005/LeetCode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/KK15082005/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
